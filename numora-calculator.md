@@ -20,10 +20,7 @@
   "accentColor": "amber",
   "repoUrl": "https://github.com/weztcy/Numora---Calculator",
   "license": "MIT License",
-  "imageUrl": "/images/projects/numora_calculator/banner.webp",
-  "images": [
-    "/images/projects/numora_calculator/banner.webp"
-  ],
+  "banner": "/images/projects/numora_calculator/banner.webp",
   "summary": "A modern Android scientific calculator built with Jetpack Compose featuring a custom recursive descent parser and an AMOLED dark theme.",
   "projectDescription": "Numora Calculator delivers precision arithmetic and scientific computations through a high-performance recursive descent parser. Built natively with Jetpack Compose and Kotlin StateFlow, it pairs robust mathematical evaluation with an energy-efficient AMOLED interface for Android.",
   "architectureSummary": "Unidirectional MVVM pipeline routing Compose UI events through a ViewModel to a custom Lexer and Recursive Descent Parser via StateFlow.",
